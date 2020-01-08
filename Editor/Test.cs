@@ -1,5 +1,5 @@
 using UnityEditor;
-using Packages.com.unity.testpackage.Editor.Core;
+using Test.Core;
 
 namespace Packages.com.unity.testpackage.Editor
 {
