@@ -1,0 +1,7 @@
+{
+  "name": "com.unity.testpackage",
+  "version": "1.2.3",
+  "displayName": "test",
+  "description": "test",
+  "unity":  "2018.3"
+}

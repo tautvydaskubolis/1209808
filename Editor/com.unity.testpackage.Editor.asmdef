@@ -1,0 +1,9 @@
+{
+    "name": "com.unity.testpackage.Editor",
+    "references": [
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
